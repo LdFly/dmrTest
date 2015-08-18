@@ -5,4 +5,4 @@ dev update
 
 master update
 
-master add 2
+dev update 2
